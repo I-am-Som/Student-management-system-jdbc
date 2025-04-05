@@ -4,4 +4,5 @@ public class Student {
     String name;
     int marks;
     String branch;
+    String grade;
 }
